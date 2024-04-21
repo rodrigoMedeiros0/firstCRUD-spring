@@ -9,9 +9,9 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 Para fazer o deploy desse projeto rode
 
 ```bash
-. Copie https://github.com/rodrigoMedeiros0/firstCRUD-spring.git
-. Abra o git e no seu pc e de git clone com no link acima 
-. Abra a pasta do arquivo com sua IDE de preferencia e de start na apliacação
+Copie https://github.com/rodrigoMedeiros0/firstCRUD-spring.git
+Abra o git e no seu pc e de git clone com no link acima 
+Abra a pasta do arquivo com sua IDE de preferencia e de start na apliacação
 ```
 
 
